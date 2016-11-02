@@ -59,7 +59,7 @@ public class WitnessComplexVisualization extends JFrame{
             BufferedImage plot = null;
             try {
                 plot = BarcodeVisualizer.drawBarcode(intervalsOfDimension, "barcode for dimension "+s, 2);
-                File outputfile = new File("barcodes/barcode_dimension_"+s+".jpg");
+                File outputfile = new File("barcode_dimension_"+s+".jpg");
                 ImageIO.write(plot, "jpg", outputfile);
             } catch (IOException e) {
                 e.printStackTrace();
