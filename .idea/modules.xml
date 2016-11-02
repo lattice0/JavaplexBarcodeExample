@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/topology_javaplex.iml" filepath="$PROJECT_DIR$/.idea/modules/topology_javaplex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/topology_javaplex_main.iml" filepath="$PROJECT_DIR$/.idea/modules/topology_javaplex_main.iml" group="topology_javaplex" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/topology_javaplex_test.iml" filepath="$PROJECT_DIR$/.idea/modules/topology_javaplex_test.iml" group="topology_javaplex" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+apply plugin:'application'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile files('libs/javaplex-4.2.5.jar')
+}
