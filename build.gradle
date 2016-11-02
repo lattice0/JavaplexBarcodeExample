@@ -1,5 +1,8 @@
 apply plugin:'application'
 
+mainClassName = "WitnessComplexVisualization"
+
+
 repositories {
     mavenCentral()
 }
